@@ -1,0 +1,31 @@
+C = C ( O P ( = O ) ( [O-] ) [O-] ) C ( = O ) [O-] . O = C [C@H] ( O ) [C@H] ( O ) C O P ( = O ) ( [O-] ) [O-]
+O = C ( [O-] ) C ( = O ) C [C@@H] ( O ) [C@H] ( O ) [C@H] ( O ) C O P ( = O ) ( [O-] ) [O-]
+O = C 1 C [C@@] ( O ) ( C ( = O ) [O-] ) C [C@@H] ( O ) [C@@H] 1 O
+O = C ( [O-] ) C 1 = C C ( = O ) [C@@H] ( O ) [C@H] ( O ) C 1
+O = C ( [O-] ) C 1 = C [C@@H] ( O ) [C@@H] ( O ) [C@H] ( O ) C 1
+C = C ( O P ( = O ) ( [O-] ) [O-] ) C ( = O ) [O-] . O = C ( [O-] ) C 1 = C [C@@H] ( O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) [C@H] ( O ) C 1
+C = C ( O [C@@H] 1 C C ( C ( = O ) [O-] ) = C [C@@H] ( O P ( = O ) ( [O-] ) [O-] ) [C@H] 1 O ) C ( = O ) [O-]
+[NH3+] [C@@H] ( C c 1 c c c c c 1 ) C ( = O ) [O-]
+[NH3+] [C@@H] ( C c 1 c c c ( O ) c c 1 ) C ( = O ) [O-]
+[NH3+] [C@@H] ( C c 1 c c c ( O ) c c 1 ) C ( = O ) [O-]
+O = C ( [O-] ) / C = C / c 1 c c c c c 1
+O = C ( [O-] ) / C = C / c 1 c c c ( O ) c c 1
+O = C ( [O-] ) / C = C / c 1 c c c ( O ) c c 1
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c c 1 . O = C ( [O-] ) C 1 = C [C@@H] ( O ) [C@@H] ( O ) [C@H] ( O ) C 1
+O = C ( / C = C / c 1 c c c ( O ) c c 1 ) O [C@@H] 1 C C ( C ( = O ) [O-] ) = C [C@@H] ( O ) [C@H] 1 O
+O = C ( / C = C / c 1 c c c ( O ) c ( O ) c 1 ) O [C@@H] 1 C C ( C ( = O ) [O-] ) = C [C@@H] ( O ) [C@H] 1 O
+O = C ( [O-] ) / C = C / c 1 c c c ( O ) c ( O ) c 1
+O = C ( [O-] ) / C = C / c 1 c c c ( O ) c ( O ) c 1
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c ( O ) c 1
+C O c 1 c c ( / C = C / C ( = O ) [O-] ) c c c 1 O
+C O c 1 c c ( / C = C / C ( = O ) S C C N C ( = O ) C C N C ( = O ) [C@H] ( O ) C ( C ) ( C ) C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 2 O [C@@H] ( n 3 c n c 4 c ( N ) n c n c 4 3 ) [C@H] ( O ) [C@@H] 2 O P ( = O ) ( [O-] ) [O-] ) c c c 1 O
+C O c 1 c c ( / C = C / C ( = O ) S C C N C ( = O ) C C N C ( = O ) C ( O ) C ( C ) ( C ) C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 2 O [C@@H] ( n 3 c n c 4 c ( N ) n c n c 4 3 ) [C@H] ( O ) [C@@H] 2 O P ( = O ) ( [O-] ) [O-] ) c ( O ) c c 1 O
+C O c 1 c c 2 c c c ( = O ) o c 2 c c 1 O
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c c 1
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c c 1 O
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c ( O ) c 1
+O = C ( [O-] ) / C = C / c 1 c c c c c 1
+O = C ( [O-] ) / C = C / c 1 c c c c c 1 O
+O = C ( [O-] ) / C = C / c 1 c c c c c 1 O [C@@H] 1 O [C@H] ( C O ) [C@@H] ( O ) [C@H] ( O ) [C@H] 1 O
+O = C ( [O-] ) / C = C c 1 c c c c c 1 O [C@@H] 1 O [C@H] ( C O ) [C@@H] ( O ) [C@H] ( O ) [C@H] 1 O
+O = C ( [O-] ) / C = C c 1 c c c c c 1 O

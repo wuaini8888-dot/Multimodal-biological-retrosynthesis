@@ -1,0 +1,14 @@
+O = C ( [O-] ) / C = C / c 1 c c c c c 1
+O = C ( [O-] ) / C = C / c 1 c c c ( O ) c c 1
+C C ( C ) ( C O P ( = O ) ( [O-] ) O P ( = O ) ( [O-] ) O C [C@H] 1 O [C@@H] ( n 2 c n c 3 c ( N ) n c n c 3 2 ) [C@H] ( O ) [C@@H] 1 O P ( = O ) ( [O-] ) [O-] ) [C@@H] ( O ) C ( = O ) N C C C ( = O ) N C C S C ( = O ) / C = C / c 1 c c c ( O ) c c 1
+O = C ( / C = C / c 1 c c c ( O ) c c 1 ) c 1 c ( O ) c c ( O ) c c 1 O
+O = C 1 C [C@@H] ( c 2 c c c ( O ) c c 2 ) O c 2 c c ( O ) c c ( O ) c 2 1
+O = C 1 C [C@@H] ( c 2 c c c ( O ) c ( O ) c 2 ) O c 2 c c ( O ) c c ( O ) c 2 O 1
+O = c 1 c c ( - c 2 c c c ( O ) c c 2 ) o c 2 c c ( O ) c c ( O ) c 1 2
+O = c 1 c c ( - c 2 c c c ( O ) c ( O ) c 2 ) o c 2 c c ( O ) c c ( O ) c 1 2
+O = c 1 c c ( - c 2 c c c ( O ) c ( O ) c 2 ) o c 2 c c ( O ) c c ( O ) c 1 2
+O = C 1 c 2 c ( O ) c c ( O ) c c 2 O [C@H] ( c 2 c c c ( O ) c c 2 ) [C@H] 1 O
+O = C 1 c 2 c ( O ) c c ( O ) c c 2 O [C@H] ( c 2 c c c ( O ) c ( O ) c 2 ) [C@H] 1 O
+O = c 1 c ( O ) c ( - c 2 c c c ( O ) c c 2 ) o c 2 c c ( O ) c c ( O ) c 1 2
+O = c 1 c ( O ) c ( - c 2 c c c ( O ) c ( O ) c 2 ) o c 2 c c ( O ) c c ( O ) c 1 2
+O c 1 c c c ( [C@H] 2 O c 3 c c ( O ) c c ( O ) c 3 [C@H] ( O ) [C@@H] 2 O ) c c 1
