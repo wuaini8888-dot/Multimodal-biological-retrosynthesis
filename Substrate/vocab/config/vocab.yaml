@@ -1,0 +1,24 @@
+# ## Where the samples will be written
+save_data: /data/stu1/ml_project/bioec/data_preprocess/save
+# ## Where the vocab(s) will be written
+src_vocab: /data/stu1/ml_project/bioec/single_retro/data/vocab.src
+tgt_vocab: /data/stu1/ml_project/bioec/single_retro/data/vocab.tgt
+# # Prevent overwriting existing files in the folder
+overwrite: False
+
+# # Corpus opts:
+data:
+    corpus_1:
+        path_src: /data/stu1/ml_project/bioec/dataset/USPTO/train_src.txt
+        path_tgt: /data/stu1/ml_project/bioec/dataset/USPTO/train_tar.txt
+        weight: 1
+    corpus_2:
+        path_src: /data/stu1/ml_project/bioec/dataset/data_processed/tokenized/tokenized_src_train.txt
+        path_tgt: /data/stu1/ml_project/bioec/dataset/data_processed/tokenized/tokenized_tgt_train.txt
+        weight: 4
+    valid:
+        path_src: /data/stu1/ml_project/bioec/dataset/data_processed/tokenized/tokenized_src_valid.txt
+        path_tgt: /data/stu1/ml_project/bioec/dataset/data_processed/tokenized/tokenized_tgt_valid.txt
+
+#onmt_build_vocab -config /data/stu1/hjq_pycharm_project/A55/OPENNMT/vocab.yaml -n_sample -1
+
